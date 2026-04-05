@@ -17,7 +17,7 @@ I'm a 4th-semester Software Engineering student from Multan, passionately buildi
 ---
 
 ### 📈 My GitHub Stats
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=engr-ahmad-pk&show_icons=true&theme=radical&hide_border=true)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadcodes-pk&show_icons=true&theme=radical&hide_border=true)
 #### 📫 Let's Connect!
 - [LinkedIn Profile](https://www.linkedin.com/in/ahmad-codes)
 - 📧 **Email:** [ahmadkhokhar486@gmail.com](mailto:ahmadkhokhar486@gmail.com)
