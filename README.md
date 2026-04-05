@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Engr. Ahmad! 👋
+### Software Engineering Undergraduate | Aspiring for a Master's Abroad 🎓
 
-<!--
-**engr-ahmad-pk/engr-ahmad-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-semester Software Engineering student from Multan, passionately building strong foundations in Python and modern developer tools. My ultimate goal is to secure a fully-funded Master's scholarship abroad by showcasing a robust portfolio of high-quality technical projects.
 
-Here are some ideas to get you started:
+#### 🚀 About Me
+- 📚 **Currently studying:** Software Engineering (4th Semester)
+- 💻 **Currently learning:** Python, Git, and Advanced Developer Workflows
+- 🎯 **Current objective:** Academic Excellence & International Scholarship Opportunities
+- ⚡ **Mindset:** Write clean code, stay curious, and keep pushing boundaries!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack & Tools
+- **Languages:** Python
+- **Tools:** VS Code, Git, GitHub
+- **Environment:** Windows (Terminal Power User)
+
+#### 📫 Let's Connect!
+- [LinkedIn Profile](https://www.linkedin.com/in/engr-ahmad-pk)
+- 📧 **Email:** [ahmadkhokhar486@gmail.com](mailto:ahmadkhokhar486@gmail.com)
